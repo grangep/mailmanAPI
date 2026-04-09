@@ -1,16 +1,15 @@
 {
 
-  "name" : "splattner/mailmanapi",
-  "version" : "1.2.0",
+  "name" : "grangep/mailmanapi",
   "type" : "library",
   "license": "MIT",
   "description": "A simple API to work with Mailman 2.x Mailing Lists",
-  "homepage" : "https://github.com/splattner/mailmanAPI",
+  "homepage" : "https://github.com/grangep/mailmanAPI",
 
   "authors": [
     {
-      "name": "Sebastian Plattner",
-      "email": "sebastian.plattner@gmail.com",
+      "name": "Peter Grange",
+      "email": "peter@thegranges.org.uk",
       "role": "Developer"
     }
   ],
