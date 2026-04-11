@@ -1,5 +1,4 @@
 {
-
   "name" : "grangep/mailmanapi",
   "type" : "library",
   "license": "MIT",
@@ -18,14 +17,16 @@
     "guzzlehttp/guzzle": "~7.0",
     "paquettg/php-html-parser": "^1.7"
   },
+
   "autoload": {
     "psr-4": {
-        "Grangep\\MailmanApi\\": "src/"
+      "Grangep\\MailmanApi\\": "src/"
     }
-  }
+  },
+
   "extra": {
     "branch-alias": {
-        "dev-main": "1.3.x-dev",
-        "dev-master": "1.3.x-dev"
+      "dev-master": "1.3.x-dev"
     }
+  }
 }
