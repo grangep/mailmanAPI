@@ -1,6 +1,6 @@
 <?php
 
-namespace Grangep\MailmanApi;
+namespace Grangep\MailmanAPI;
 
 use GuzzleHttp\Client;
 
