@@ -19,8 +19,7 @@
     "paquettg/php-html-parser": "^1.7"
   },
   "autoload": {
-    "files": [
-      "src/api.php"
-    ]
+    "psr-4": {
+        "Grangep\\MailmanApi\\": "src/"
+    }
   }
-}
