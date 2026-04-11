@@ -1,6 +1,6 @@
 <?php
 
-namespace splattner\mailmanapi;
+namespace grangep\mailmanapi;
 
 use GuzzleHttp\Client;
 
